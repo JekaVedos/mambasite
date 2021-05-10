@@ -17,6 +17,7 @@ body{
 }
 
 h1{
+   user-select: none;
    font-size: 40px;
 }
 
