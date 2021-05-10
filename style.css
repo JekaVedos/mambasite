@@ -35,7 +35,7 @@ body{
 .input:focus{
    outline: none;
    border: 3px solid blue;
-   background-color: rgb(212, 211, 211);
+   background-color: rgb(143, 140, 140);
 }
 
 .button{
@@ -61,8 +61,8 @@ body{
    position: absolute;
    top: 0;
    user-select: none;
-   color: rgb(77, 76, 76);
-   transition: .3s;
+   color: rgb(143, 140, 140);
+   transition: .5s;
 }
 
 .pashalka:hover{
