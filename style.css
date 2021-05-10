@@ -19,6 +19,7 @@ body{
 .textt{
    user-select: none;
    font-size: 40px;
+   z-index 2;
 }
 
 .input{
